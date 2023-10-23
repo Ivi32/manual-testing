@@ -1,0 +1,35 @@
+Tehnička olovka
+
+-Tehnička olovka ili patent olovka se koristi za pisanje i (tehničko) crtanje. 
+-Za razliku od obične grafitne olovke, kod koje se grafitno srce ne menja, već oštri rezačem, tehnička olovka radi na principu menjanja grafitnog srca, odosno grafitnih mina i zbog toga se može dugo koristiti.
+-Tehnička olovka može biti metalna ili plastična, različitog dizajna, oblika i debljine. Obično sadrži gumeni deo na mestu gde se smešta između prstiju da bi bila udobnija za korišćenje.
+-Može da koristi mine različite debljine od 0,5 do 2mm. Jedna olovka podržava samo jednu debljinu grafitne mine.
+-Pored plastične, ili metalne spoljašnjosti važan deo je i mehanizam koji omogućava punjenje olovke minama i istiskivanje mine iz olovke.
+-Na vrhu olovke nalazi se poklopac, pritiskom na poklopac mina se istiskuje kroz otvor u obliku iglice na dnu olovke.
+-Ispod poklopca nalazi se gumica za brisanje. Uklanjanjem poklopca i gumice za brisanje dobijamo pristup cevi za punjenje olovke u koju ubacujemo mine.
+-Donji deo olovke je u obliku obrnute kupe s iglicom na vrhu. Iglica je šuplja i kroz nju se istiskuje mina.
+-Donji deo olovke može se takođe skinuti kao i poklopac, odšrafi se, što nam daje pristup cevi iz koje izlaze mine i omogućava čišćenje olovke od polomljenih grafitnih mina i grafitnne prašine.
+
+Testiranje tehničke olovke
+
+Testiranje praktičnosti
+Uzimamo olovku u ruku. Proveravamo da li je dovoljno lagana, odgovarajuće debljine-zgodna za držanje među prstima. Pišemo, crtamo olovkom duže da bi proverili da li se ruka umara od njene težine i da li na prstima ostavlja useke ili otiske usled dužeg korišćenja. Takođe, proveravamo koliki je pritisak potrebno izvršiti rukom da bi olovka ostavila trag na papiru, imajući u vidu da to zavisi i od olovke, ali i od kvaliteta upotrebljene mine.
+
+Testiranje izdržljivosti
+Proveravamo šta će se desiti ukoliko nam olovka ispadne na pod, ukoliko je namerno jače bacimo, ako probamo da je rukom polomimo na dva dela, ako je stavimo ispod tereta-nekoliko knjiga na primer, ili ako je zgazimo. Ukoliko dođe do oštećenja proveravamo da li možemo samostalno da popravimo ili sastavimo olovku i da li će ona biti ispravna nakon toga. Testiramo šta će se desiti sa olovkom ukoliko je pokvasimo ili potopimo u vodu/sok/kafu, da li će posle toga moći da piše, da li je potrebno i koliko vremenski dugo osušiti olovku da bi mogla da piše. 
+
+Testiranje izgleda-dizajna olovke
+Prilikom ovakve vrste testiranja moramo da imamo na umu ciljnu grupu. Ukoliko npr testiramo olovku namenjenu osnovcima ili srednjoškolcima, potrebno je da ona bude primamljiva u smislu šarena, jarkih ili upadljivih boja, ili sa nekim zanimljivim i deci privlačnim detaljima. Ukoliko je olovka namenjena studentima i starijim populacijama, prednost bi imao jednobojan i elegantan dizajn. Idealno bi bilo za potvrđeno kvalitetan mehaniyam olovke napraviti različite dizajne. Treba povesti računa i o veličini olovke-debjini i dužini, da li može da stane u pernicu, futrolu za olovke, džep u rancu ili torbi.
+
+Testiranje funkcionalnosti mehanizma olovke
+Prvo treba prpveriti da li tehnička olovka sadrži sve neophodne i prethodno navedene delove.
+Nakon ubacivanja grafitne mine odgovarajuće veličine u cev, krećemo s pritiskanjem poklopca da bi videli da li mina izlazi i koliko je puta potrebno pritisnuti poklopac da bi mina izašla.
+Probamo da više puta uzastopno pritisnemo poklopac i da tako proverimo izdržljivost mehanizma, da li će ostati ispravan i nakon 100 ili 1000 uzastopnih pritisaka.
+Ubacimo nekoliko mina odgovarajuće veličine u cev, da proverimo da li će nakon potrošnje jedne mine mehanizam automatski povući drugu iz cevi.
+Zatim ubacujemo mine različitih veličina, ali tako da ne budu odgovarajuće veličine za našu olovku. Time želimo da proverimo da li će to dovesti do oštećenja mehanizma ukoliko korisnik greškom kupi i stavi mine neodgovarajuće veličine. Ukoliko se veća mina zaglavi u mehanizmu, proveravamo da li korisnik samostalno može da otkloni kvar.
+Pokušavamo da rastavimo i ponovo sastavimo mehanizam, nakon toga proveravamo da li olovka radi. 
+Pokušavamo da očistimo mehanizam, sastavljamo olovku nakon toga, proveravamo da li radi.
+Pokušavamo da minu ubacimo sa donje, umesto sa gornje strane olovke, nakon toga ponovo proveravamo da li mehanizam radi.
+
+
+ 
